@@ -1,0 +1,102 @@
+
+--- Query 1 ---
+('Hartsfield Jackson Atlanta International Airport', 'Atlanta', 'United States', 915)
+("Chicago O'Hare International Airport", 'Chicago', 'United States', 558)
+('Beijing Capital International Airport', 'Beijing', 'China', 535)
+('London Heathrow Airport', 'London', 'United Kingdom', 527)
+('Charles de Gaulle International Airport', 'Paris', 'France', 524)
+('Frankfurt am Main Airport', 'Frankfurt', 'Germany', 497)
+('Los Angeles International Airport', 'Los Angeles', 'United States', 492)
+('Dallas Fort Worth International Airport', 'Dallas-Fort Worth', 'United States', 469)
+('John F Kennedy International Airport', 'New York', 'United States', 456)
+('Amsterdam Airport Schiphol', 'Amsterdam', 'Netherlands', 453)
+
+--- Query 2 ---
+('Hartsfield Jackson Atlanta International Airport', 'Atlanta', 'United States', 911)
+("Chicago O'Hare International Airport", 'Chicago', 'United States', 550)
+('Beijing Capital International Airport', 'Beijing', 'China', 534)
+('London Heathrow Airport', 'London', 'United Kingdom', 524)
+('Charles de Gaulle International Airport', 'Paris', 'France', 517)
+('Los Angeles International Airport', 'Los Angeles', 'United States', 498)
+('Frankfurt am Main Airport', 'Frankfurt', 'Germany', 493)
+('Dallas Fort Worth International Airport', 'Dallas-Fort Worth', 'United States', 467)
+('John F Kennedy International Airport', 'New York', 'United States', 455)
+('Amsterdam Airport Schiphol', 'Amsterdam', 'Netherlands', 450)
+
+--- Query 3 ---
+('Ryanair', 'Ireland', 2484)
+('American Airlines', 'United States', 2354)
+('United Airlines', 'United States', 2180)
+('Delta Air Lines', 'United States', 1981)
+('US Airways', 'United States', 1960)
+('China Southern Airlines', 'China', 1454)
+('China Eastern Airlines', 'China', 1263)
+('Air China', 'China', 1260)
+('Southwest Airlines', 'United States', 1146)
+('easyJet', 'United Kingdom', 1130)
+
+--- Query 4 ---
+('United States', 1512)
+('Canada', 430)
+('Australia', 334)
+('Russia', 264)
+('Brazil', 264)
+('Germany', 249)
+('China', 241)
+('France', 217)
+('United Kingdom', 167)
+('India', 148)
+
+--- Query 5 ---
+("Chicago O'Hare International Airport", 'Chicago', 'United States', 'Hartsfield Jackson Atlanta International Airport', 'Atlanta', 'United States', 20)
+('Hartsfield Jackson Atlanta International Airport', 'Atlanta', 'United States', "Chicago O'Hare International Airport", 'Chicago', 'United States', 19)
+('Phuket International Airport', 'Phuket', 'Thailand', 'Suvarnabhumi Airport', 'Bangkok', 'Thailand', 13)
+("Chicago O'Hare International Airport", 'Chicago', 'United States', 'Louis Armstrong New Orleans International Airport', 'New Orleans', 'United States', 13)
+('London Heathrow Airport', 'London', 'United Kingdom', 'John F Kennedy International Airport', 'New York', 'United States', 12)
+('Abu Dhabi International Airport', 'Abu Dhabi', 'United Arab Emirates', 'Muscat International Airport', 'Muscat', 'Oman', 12)
+('Hong Kong International Airport', 'Hong Kong', 'Hong Kong', 'Suvarnabhumi Airport', 'Bangkok', 'Thailand', 12)
+('Guangzhou Baiyun International Airport', 'Guangzhou', 'China', 'Hangzhou Xiaoshan International Airport', 'Hangzhou', 'China', 12)
+('Miami International Airport', 'Miami', 'United States', 'Hartsfield Jackson Atlanta International Airport', 'Atlanta', 'United States', 12)
+('Hartsfield Jackson Atlanta International Airport', 'Atlanta', 'United States', 'Miami International Airport', 'Miami', 'United States', 12)
+
+--- Query 6 ---
+('Cubana de Aviación', 0.01694915254237288)
+('Canadian North', 0.015384615384615385)
+('AirTran Airways', 0.004132231404958678)
+('Air Canada', 0.0028368794326241137)
+('Southwest Airlines', 0.002617801047120419)
+('Scandinavian Airlines System', 0.001984126984126984)
+('40-Mile Air', 0.0)
+('Aigle Azur', 0.0)
+('American Airlines', 0.0)
+('Asiana Airlines', 0.0)
+
+--- Query 7 ---
+(0,)
+
+--- Query 8 ---
+(220,)
+
+--- Query 9 ---
+(221,)
+
+--- Query 10 ---
+('N', 4906)
+('Y', 1255)
+('n', 1)
+
+--- Query 11 ---
+(None, 'Australia', 30)
+('Columbus', 'United States', 8)
+('Houston', 'United States', 6)
+('Jacksonville', 'United States', 6)
+('London', 'United Kingdom', 6)
+('Moscow', 'Russia', 6)
+('New York', 'United States', 6)
+('Atlanta', 'United States', 5)
+('Greenville', 'United States', 5)
+('Izmir', 'Turkey', 5)
+
+--- Query 12 ---
+('Domestic', 32061)
+('International', 34710)
