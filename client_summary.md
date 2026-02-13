@@ -11,6 +11,11 @@
 - `output/model_results.txt` (accuracy ~0.7039)
 - `output/sql_results.txt`
 
+## Charts
+![Distance distribution](output/distance_distribution.png)
+
+![Domestic vs International](output/domestic_vs_international.png)
+
 ## Key findings
 - **Top hubs (outgoing routes):** Atlanta (915), Chicago O’Hare (558), Beijing (535), Heathrow (527), Paris CDG (524)
 - **Airports by country:** United States (1512) leads, then Canada (430), Australia (334)
